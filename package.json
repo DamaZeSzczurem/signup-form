@@ -1,0 +1,16 @@
+{
+  "name": "contactmail",
+  "version": "1.0.0",
+  "description": "app that collect mails from users",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ula Machowska",
+  "license": "ISC"
+}
